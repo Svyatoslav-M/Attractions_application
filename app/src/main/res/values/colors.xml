@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#FF000000</color> <!-- Черный для светлой темы -->
+    <color name="drawableTintColor">#FF000000</color>
+    <color name="fillColor">#FF000000</color>
+    <color name="background">#FF000000</color>
+</resources>

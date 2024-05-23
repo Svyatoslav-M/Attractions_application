@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:scaleX">1</item>
+        <item name="android:scaleY">1</item>
+        <item name="android:fontFamily">@font/baloo</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawableRight">@drawable/r_arrow</item>
+        <item name="drawableTint">@color/drawableTintColor</item>
+
+    </style>
+</resources>
